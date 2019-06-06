@@ -1,0 +1,29 @@
+<plist version="1.0">                     
+<dict>             
+    <key>items</key>
+    <array> 
+        <dict>
+            <key>assets</key>
+            <array>         
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://iospck.caocaokeji.cn/packages/ios/test/CaocaoApp_GO/d4d9fb1e88d420c08f551338a4493177c04a2e85/test-CaocaoApp_GO-4.2.81.BETA1.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.geely.caocao</string>
+                <key>bundle-version</key>
+                <string>4.3.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string />
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
